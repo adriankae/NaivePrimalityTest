@@ -29,9 +29,9 @@ I used the following parts:
 
 see also <https://www.arduino.cc/en/Tutorial/LiquidCrystalDisplay>
 
-## Schematics
+## Schematic
 
-The circuit for hooking up the LCD to your Arduino can be found at <https://www.arduino.cc/en/Tutorial/LiquidCrystalDisplay>.
+The schematic for hooking up the LCD to your Arduino can be found at <https://www.arduino.cc/en/Tutorial/LiquidCrystalDisplay>.
 
 Or here (used from the website above, licensed by CC SA 3.0):  
 
