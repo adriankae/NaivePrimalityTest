@@ -1,7 +1,7 @@
 # Naive primality test on Arduino with LCD Display
  
 
-## What it does
+## Description
 
 The Arduino checks in a range of 1 to \\(2^{32}-1\\) wether the number is a prime or not and counts the primes found until the current iteration.
 
@@ -13,7 +13,9 @@ You can watch your Arduino crunching numbers!
 
 This is a small and **very easy** beginner project for Arduino with LCD Display.
 
-## Hardware used
+Requires moderate soldering skills.
+
+## Parts list
 
 I used the following parts:
 
@@ -98,7 +100,7 @@ My code is listed below in the code section.
 	  }
 	}
 	
-## Pictures of the project
+## Pictures
 
 ![](/Users/adrian/Documents/Arduino/naivePrimalityTest/DSC_0048.JPG "")
 ![](/Users/adrian/Documents/Arduino/naivePrimalityTest/DSC_0052.JPG "")
