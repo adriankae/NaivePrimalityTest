@@ -3,7 +3,7 @@
 
 ## Description
 
-The Arduino checks in a range of 1 to \\(2^{32}-1\\) wether the number is a prime or not and counts the primes found until the current iteration.
+The Arduino checks in a range of $1$ to $2^{32}-1$ wether the number is a prime or not and counts the primes found until the current iteration.
 
 The number of primes found and the largest prime found already will be displayed on the LCD.
 
