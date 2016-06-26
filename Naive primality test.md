@@ -52,7 +52,7 @@ My code is listed below in the code section.
 	unsigned long i = 1; // iterator for primes
 	
 	char isPrime(long n){
-	  if(n <= 1){ // primes are >0 by definition
+	  if(n < 1){ // primes are >0 by definition
 	    return 0;
 	  }
 	  else if(n <= 3){ // 1,2,3 are primes
