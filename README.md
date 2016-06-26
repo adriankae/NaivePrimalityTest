@@ -35,7 +35,7 @@ The schematic for hooking up the LCD to your Arduino can be found at <https://ww
 
 Or here (used from the website above, licensed by CC SA 3.0):  
 
-![licensed by CC SA 3.0](/Users/adrian/Documents/Arduino/naivePrimalityTest/LCD_Base_bb_Fritz.png "Circuit")
+![licensed by CC SA 3.0](https://github.com/adriankae/NaivePrimalityTest/blob/master/LCD_Base_bb_Fritz.png?raw=true "Circuit")
 
 ## Implementation
 
@@ -102,8 +102,8 @@ My code is listed below in the code section.
 	
 ## Pictures
 
-![](/Users/adrian/Documents/Arduino/naivePrimalityTest/DSC_0048.JPG "")
-![](/Users/adrian/Documents/Arduino/naivePrimalityTest/DSC_0052.JPG "")
+![](https://github.com/adriankae/NaivePrimalityTest/blob/master/DSC_0048.JPG?raw=true"")
+![](https://github.com/adriankae/NaivePrimalityTest/blob/master/DSC_0052.JPG?raw=true"")
 
 ## License
 
